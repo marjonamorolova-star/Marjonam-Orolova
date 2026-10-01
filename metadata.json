@@ -1,0 +1,8 @@
+{
+  "name": "EduVision Pro - AI & Video Analitika Monitoring Tizimi",
+  "description": "Oliy ta'lim muassasalari uchun sun'iy intellekt va video tahlilga asoslangan monitoring va akademik boshqaruv platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
